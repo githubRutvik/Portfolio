@@ -110,7 +110,7 @@ nav  .nav-list li.btn a{
 }
 
 nav  .nav-list li.btn a:hover{
-    background: lightblue;
+    background: yellow;
     color: white;
     border: 2px solid transparent;
     transition: .4s;
